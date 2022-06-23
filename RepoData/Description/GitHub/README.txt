@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+ukraine A list of lists of software made by the people of Ukraine. Hoping to be a database someday.
